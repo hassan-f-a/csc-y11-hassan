@@ -1,5 +1,7 @@
-body  {
-  background-image: url("pleh/pleh.png");
-  background-color: #cccccc;
-}
+body {
+ background-image: url("pleh/blight.png");
+  background-size:2000px 1020px ;
+   background-repeat: no-repeat;
+  background-attachment: fixed
 
+}
