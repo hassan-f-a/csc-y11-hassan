@@ -1,7 +1,8 @@
 body {
  background-image: url("pleh/blight.png");
-  background-size:2000px 1020px ;
+  background-size:100% 100% ;
    background-repeat: no-repeat;
   background-attachment: fixed
+
 
 }
