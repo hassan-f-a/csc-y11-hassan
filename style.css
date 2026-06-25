@@ -5,3 +5,30 @@ body {
   background-attachment: fixed
 
 }
+
+
+<html>
+<head>
+<style>
+    {
+  width: 46px;
+  height: 44px;
+  background-image: url("pleh/Autosaved.png");
+  background-position: 0 0;
+}
+</style>
+</head>
+<body>
+
+<img id="plastic" src="pleh/Autosaved.png" width="1" height="1">
+
+</body>
+</html>
+
+
+
+
+
+
+
+
