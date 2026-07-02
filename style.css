@@ -4,10 +4,13 @@ body {
 
     background-image: url("pleh/blight.png");
     background-size: cover;
-    background-repeat: no-repeat;
     background-attachment: fixed;
 
     font-family: Arial, sans-serif;
+}
+
+.hero-text {
+  font-size:10px;
 }
 
 ul {
@@ -45,6 +48,8 @@ section {
     padding: 20px;
 }
 
+
+
 h2,
 p {
     margin: 10px;
@@ -76,7 +81,7 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    
+
 
     color: white;
     font-size: 48px;
@@ -91,10 +96,7 @@ p {
 }
 
 
-.image-wrap {
-    position: relative;
-    text-align: center;
-}
+
 .image-wrap {
     position: relative;
     display: block;
@@ -115,7 +117,7 @@ p {
 .faq-item label {
     display: block;
     cursor: pointer;
-    
+
     padding: 10px;
     border-radius: 5px;
 
@@ -136,3 +138,5 @@ p {
 .faq-item input:checked + label + .answer {
     display: block;
 }
+
+    
