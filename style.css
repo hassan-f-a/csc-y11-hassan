@@ -9,10 +9,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.hero-text {
-  font-size:10px;
-}
-
 ul {
     list-style: none;
 
@@ -84,11 +80,12 @@ p {
 
 
     color: white;
-    font-size: 48px;
+    font-size: 25px;
     font-weight: bold;
 
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 }
+
 .image-wrap {
     position: relative;
     display: block;
@@ -123,6 +120,7 @@ p {
 
     font-weight: bold;
 }
+
 
 .answer {
     display: none;
