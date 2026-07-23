@@ -45,11 +45,34 @@ section {
     padding: 20px;
 }
 
-h2,
-p {
-    margin: 10px;
+h2
+{
+opacity: 0.0;
 }
-
+h3{
+    opacity: 0.0;
+}
+h4{
+    opacity: 0.0;
+}
+h5{
+    opacity: 0.0;
+}
+h6{
+    opacity: 0.0;
+}
+h7{
+    opacity: 0.0;
+}
+h8{
+    opacity: 0.0;
+}
+h9{
+    opacity: 0.0;
+}
+h10{
+    opacity: 0.0;
+}
 #homepage {
     padding-top: 20px;
     text-align: center;
