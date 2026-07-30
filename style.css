@@ -20,7 +20,7 @@ ul {
 
     background-color: black;
 
-    position: fixed;
+    position: absolute;
     top: 0;
     width: 100%;
 }
@@ -63,7 +63,9 @@ p {
     display: block;
     margin: 300px auto 0;
 }
-
+#remove {
+    
+}
 .hero {
     position: relative;
     display: inline-block;
