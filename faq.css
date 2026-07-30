@@ -9,6 +9,7 @@ body {
 
     font-family: Arial, sans-serif;
 }
+/* adds the background*/
 
 ul {
     list-style: none;
@@ -84,10 +85,13 @@ section {
     display: block;
     text-align: center;
 }
+/* makes everything the proper size*/
 
 
 
 .h6{
     opacity: 0.0;
 }
+/* makes some text invisible*/
+
 

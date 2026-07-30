@@ -9,6 +9,7 @@ body {
 
     font-family: Arial, sans-serif;
 }
+/* adds the background*/
 
 ul {
     list-style: none;
@@ -35,6 +36,7 @@ li a {
 
     text-decoration: none;
 }
+/* makes the nav bar look good*/
 
 li a:hover {
     background-color: #31ae3e;
@@ -83,6 +85,7 @@ section {
     display: block;
     text-align: center;
 }
+/* makes everything the proper size*/
 
 h2 {
     opacity: 0.0;
@@ -102,5 +105,6 @@ h5 {
 
 h6 {
     opacity: 0.0;
-}
+}/* makes text invisivle*/
+
 

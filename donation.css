@@ -9,6 +9,7 @@ body {
 
     font-family: Arial, sans-serif;
 }
+/* makes the background */
 
 ul {
     list-style: none;
@@ -35,6 +36,7 @@ li a {
 
     text-decoration: none;
 }
+/* makes the nav bar look good*/
 
 li a:hover {
     background-color: #31ae3e;
@@ -75,6 +77,7 @@ section {
     transform: translate(-50%, -50%);
     font-size: 50px;
 }
+/* makes everything the right size*/
 
 
 
